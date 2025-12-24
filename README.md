@@ -4,10 +4,10 @@ This repository contains documentation and examples
 covering asynchronous programming concepts in Python.
 
 ## Contents
-- Core concepts: sync vs async, concurrency, parallelism
-- CPU-bound vs IO-bound tasks
-- asyncio fundamentals
-- Python-specific constraints (GIL)
+- !!!fix
+- !!!fix
+- !!!fix
+- !!!fix
 
 ## Structure
 - `docs/` — documentation pages
